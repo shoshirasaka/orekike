@@ -106,6 +106,8 @@ font-weight: bold;
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
+
+ .controls{-webkit-filter:saturate(0%);}
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
   border-right-color: #13daec; }
